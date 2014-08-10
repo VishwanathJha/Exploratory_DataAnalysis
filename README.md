@@ -1,6 +1,6 @@
-##Exploratory Data Analysis - Course Project 1
+###Exploratory Data Analysis - Course Project 1
 
-####R Code and output graphs for Course Project 1
+#####R Code and output plots for Course Project 1
 
 This is my repository for the Coursera's course "Exploratory Data Analysis".
 Currently there are 8 files for the Course Project 1: 
